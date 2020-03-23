@@ -25,4 +25,4 @@
   const color: Color = 'red';
   const colors: Color[] = ['red', 'orange'];
 
-  // end
+  // end 2
