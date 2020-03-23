@@ -24,3 +24,5 @@
   type Color = 'red' | 'orange' | 'yellow';
   const color: Color = 'red';
   const colors: Color[] = ['red', 'orange'];
+
+  // end
